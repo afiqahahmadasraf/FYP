@@ -1,0 +1,74 @@
+{
+    "id": "C005",
+    "title-en": "Feelings",
+    "title-ms": "Perasaan",
+    "image_url": "https://firebasestorage.googleapis.com/v0/b/articulate-aac-2022.appspot.com/o/category_images%2Ffeelings.png?alt=media&token=369dd3e2-060d-4642-a33f-860513cf27ff",
+    "tiles": [
+        {
+            "id": "FE0001",
+            "label-en": "Angry",
+            "label-ms": "Marah",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/articulate-aac-2022.appspot.com/o/feelings_images%2Fangry.png?alt=media&token=f539ffd8-e0bd-4844-90ac-4090c8a48a40"
+        },
+        {
+            "id": "FE0002",
+            "label-en": "Happy",
+            "label-ms": "Gembira",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/articulate-aac-2022.appspot.com/o/feelings_images%2Fhappy_lady.png?alt=media&token=937cf6f9-6036-4b4e-bd60-207dd18b397d"
+        },
+        {
+            "id": "FE0003",
+            "label-en": "Sad",
+            "label-ms": "Sedih",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/articulate-aac-2022.appspot.com/o/feelings_images%2Fsad.png?alt=media&token=493369f3-9f09-4bc5-b1bf-187fff4ec7bd"
+        },
+        {
+            "id": "FE0004",
+            "label-en": "Worried",
+            "label-ms": "Risau",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/articulate-aac-2022.appspot.com/o/feelings_images%2Fworried.png?alt=media&token=5903e33e-49e5-4cba-8036-0f0b25a47110"
+        },
+        {
+            "id": "FE0005",
+            "label-en": "Afraid",
+            "label-ms": "Takut",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/articulate-aac-2022.appspot.com/o/feelings_images%2Fafraid.png?alt=media&token=e64d021d-9417-4038-8aa0-e9e31902a712"
+        },
+        {
+            "id": "FE0006",
+            "label-en": "Disgusted",
+            "label-ms": "Jijik",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/articulate-aac-2022.appspot.com/o/feelings_images%2Fdisgusted.png?alt=media&token=3e9d5989-2373-4d3a-8383-58e1c4e327ab"
+        },
+        {
+            "id": "FE0007",
+            "label-en": "Confused",
+            "label-ms": "Keliru",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/articulate-aac-2022.appspot.com/o/feelings_images%2Fconfused.png?alt=media&token=27cd761e-ecd4-425e-a9ca-7dc4d9f5199a"
+        },
+        {
+            "id": "FE0008",
+            "label-en": "Jealous",
+            "label-ms": "Cemnburu",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/articulate-aac-2022.appspot.com/o/feelings_images%2Fjealous.png?alt=media&token=9d609282-bccd-4628-add3-09742452d1b0"
+        },
+        {
+            "id": "FE0009",
+            "label-en": "Laughing",
+            "label-ms": "Ketawa",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/articulate-aac-2022.appspot.com/o/feelings_images%2Flaughing.png?alt=media&token=af608057-0bed-4fc3-94b5-0671765a1cbe"
+        },
+        {
+            "id": "FE00010",
+            "label-en": "Surprised",
+            "label-ms": "Terkejut",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/articulate-aac-2022.appspot.com/o/feelings_images%2Fsurprised.png?alt=media&token=33a6eadc-fb0e-4b35-ad64-632bd1e1d590"
+        },
+        {
+            "id": "FE0011",
+            "label-en": "Excited",
+            "label-ms": "Teruja",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/articulate-aac-2022.appspot.com/o/feelings_images%2Fexcited.png?alt=media&token=f70accd9-16b6-4f22-9f3b-7baba554f71f"
+        }
+    ]
+}

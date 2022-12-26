@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "25596024554",
+    "project_id": "articulate-aac-2022",
+    "storage_bucket": "articulate-aac-2022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25596024554:android:38d55fad1a8397fe432993",
+        "android_client_info": {
+          "package_name": "com.example.articulate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25596024554-d7omrrhp0sqojea7t549t19tu399qs7o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.articulate",
+            "certificate_hash": "ea83a0c8a4d33c3024f0e6f64dd8929b5aad122d"
+          }
+        },
+        {
+          "client_id": "25596024554-7tdr5ipmj61kobat437g2hvhl95j60uf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4FHRnVg6Bz8ZhYqtIiflpKJ7MpYENaUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25596024554-7tdr5ipmj61kobat437g2hvhl95j60uf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "25596024554-8votmhjs2gf5rph7ri1su7jbo7t6qsbv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.articulate"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,62 @@
+{
+    "id": "C010",
+    "title-en": "Shapes",
+    "title-ms": "Bentuk",
+    "image_url": "https://firebasestorage.googleapis.com/v0/b/articulate-aac-2022.appspot.com/o/category_images%2Fshapes.png?alt=media&token=482ef0e0-312d-4473-a714-54807108020c",
+    "tiles": [
+        {
+            "id": "SH0001",
+            "label-en": "Circle",
+            "label-ms": "Bulat",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/articulate-aac-2022.appspot.com/o/shapes_images%2Fcircle.png?alt=media&token=ed8616d4-d606-40ad-a8c2-08922692eb58"
+        },
+        {
+            "id": "SH0002",
+            "label-en": "Curly",
+            "label-ms": "Kerinting",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/articulate-aac-2022.appspot.com/o/shapes_images%2Fcurly.png?alt=media&token=db611326-a83d-42f1-92e6-a430516b28b5"
+        },
+        {
+            "id": "SH0003",
+            "label-en": "Diamond",
+            "label-ms": "Berlian",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/articulate-aac-2022.appspot.com/o/shapes_images%2Fdiamond.png?alt=media&token=55f04f93-2d0a-479a-88cc-2552693e7500"
+        },
+        {
+            "id": "SH0004",
+            "label-en": "Heart",
+            "label-ms": "Hati",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/articulate-aac-2022.appspot.com/o/shapes_images%2Fheart.png?alt=media&token=733d9338-0bc1-4d52-905c-a5b48b8f4664"
+        },
+        {
+            "id": "SH0005",
+            "label-en": "Oval",
+            "label-ms": "Bujur",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/articulate-aac-2022.appspot.com/o/shapes_images%2Foval.png?alt=media&token=e7fe9977-b409-4046-97eb-ddfc3f210192"
+        },
+        {
+            "id": "SH0006",
+            "label-en": "Rectangle",
+            "label-ms": "Segi empat tepat",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/articulate-aac-2022.appspot.com/o/shapes_images%2Frectangle.png?alt=media&token=4ff7724c-1b09-40d7-bb03-2a6955d910fc"
+        },
+        {
+            "id": "SH0007",
+            "label-en": "Shapes",
+            "label-ms": "Bentuk",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/articulate-aac-2022.appspot.com/o/category_images%2Fshapes.png?alt=media&token=482ef0e0-312d-4473-a714-54807108020c"
+        },
+        {
+            "id": "SH0008",
+            "label-en": "Square",
+            "label-ms": "Segi empat sama",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/articulate-aac-2022.appspot.com/o/shapes_images%2Fsquare.png?alt=media&token=d961d8ea-463f-493b-bc0c-9585b09a3845"
+        },
+        {
+            "id": "SH0009",
+            "label-en": "Triangle",
+            "label-ms": "Segi tiga",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/articulate-aac-2022.appspot.com/o/shapes_images%2Ftriangle.png?alt=media&token=d9ea95eb-0812-4ffd-bb49-03843ab1effb"
+        }
+    ]
+}

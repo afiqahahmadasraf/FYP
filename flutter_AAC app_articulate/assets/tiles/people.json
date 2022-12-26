@@ -1,0 +1,116 @@
+{
+    "id": "C008",
+    "title-en": "People",
+    "title-ms": "Orang",
+    "image_url": "https://firebasestorage.googleapis.com/v0/b/articulate-aac-2022.appspot.com/o/category_images%2Fpeople.png?alt=media&token=490c9479-814c-47ce-a8c5-8050489faaaa",
+    "tiles": [
+        {
+            "id": "P0001",
+            "label-en": "Baby",
+            "label-ms": "Bayi",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/articulate-aac-2022.appspot.com/o/people_images%2Fbaby.png?alt=media&token=a2399fb0-01fe-4def-b257-6ea5260a9dde"
+        },
+        {
+            "id": "P0002",
+            "label-en": "Brother",
+            "label-ms": "Abang",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/articulate-aac-2022.appspot.com/o/people_images%2Fbrother.png?alt=media&token=f03b845d-9a0a-4390-bda9-95f74d0cad84"
+        },
+        {
+            "id": "P0003",
+            "label-en": "Doctor",
+            "label-ms": "Doktor",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/articulate-aac-2022.appspot.com/o/people_images%2Fdoctor.png?alt=media&token=9bb1db51-4190-4cae-8735-645266c10a9c"
+        },
+        {
+            "id": "P0004",
+            "label-en": "Family",
+            "label-ms": "Keluarga",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/articulate-aac-2022.appspot.com/o/category_images%2Fpeople.png?alt=media&token=490c9479-814c-47ce-a8c5-8050489faaaa"
+        },
+        {
+            "id": "P0005",
+            "label-en": "Grandfather",
+            "label-ms": "Datuk",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/articulate-aac-2022.appspot.com/o/people_images%2Fold%20man.png?alt=media&token=df607001-e985-4a9c-b8e3-07d39da0fc6b"
+        },
+        {
+            "id": "P0006",
+            "label-en": "Grandmother",
+            "label-ms": "Nenek",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/articulate-aac-2022.appspot.com/o/people_images%2Fold%20woman.png?alt=media&token=199c5511-ad3c-4cd6-99d8-c3df9a59d137"
+        },
+        {
+            "id": "P0007",
+            "label-en": "Parents",
+            "label-ms": "Ibu bapa",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/articulate-aac-2022.appspot.com/o/people_images%2Fparents.png?alt=media&token=106d8737-09a6-4a12-ae5a-74c3ff9b4e1f"
+        },
+        {
+            "id": "P0008",
+            "label-en": "Sister",
+            "label-ms": "Kakak",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/articulate-aac-2022.appspot.com/o/people_images%2Fsister.png?alt=media&token=292d353c-3ee9-45d2-82d1-c2faf46a1d43"
+        },
+        {
+            "id": "P0009",
+            "label-en": "Teacher",
+            "label-ms": "Cikgu",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/articulate-aac-2022.appspot.com/o/people_images%2Fteacher.png?alt=media&token=220fac72-9c34-4668-ac76-10b55e7e2e93"
+        },
+        {
+            "id": "P0010",
+            "label-en": "Visitor",
+            "label-ms": "Pelawat",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/articulate-aac-2022.appspot.com/o/people_images%2Fvisitor.png?alt=media&token=bc39349f-69c1-42f8-a830-757dccc1c476"
+        },
+        {
+            "id": "P0011",
+            "label-en": "Baker",
+            "label-ms": "Pembuat roti",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/articulate-aac-2022.appspot.com/o/people_images%2Fbaker.png?alt=media&token=066a2501-4980-4d62-8c66-88c96d7308fa"
+        },
+        {
+            "id": "P0012",
+            "label-en": "Chef",
+            "label-ms": "Tukang masak",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/articulate-aac-2022.appspot.com/o/people_images%2Fchef.png?alt=media&token=f3e93c2a-f2d0-46c7-bc7f-acb95158fc19"
+        },
+        {
+            "id": "P0013",
+            "label-en": "Soldier",
+            "label-ms": "Askar",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/articulate-aac-2022.appspot.com/o/people_images%2Fsoldier.png?alt=media&token=9bc46f2c-3091-4e25-ab3a-9f74e0b68c65"
+        },
+        {
+            "id": "P0014",
+            "label-en": "Florist",
+            "label-ms": "Penjual bunga",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/articulate-aac-2022.appspot.com/o/people_images%2Fflorist.png?alt=media&token=c2303533-35ca-4619-b5bf-c4f7dc151549"
+        },
+        {
+            "id": "P0015",
+            "label-en": "Good person",
+            "label-ms": "Orang baik",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/articulate-aac-2022.appspot.com/o/people_images%2Fgood%20person.png?alt=media&token=fc0ee302-548e-4dc8-8fe4-c7dbaa64eb4b"
+        },
+        {
+            "id": "P0016",
+            "label-en": "Mechanic",
+            "label-ms": "Mekanik",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/articulate-aac-2022.appspot.com/o/people_images%2Fmechanic.png?alt=media&token=6e682e3f-bac7-4c09-80b5-3540c836d0f1"
+        },
+        {
+            "id": "P0017",
+            "label-en": "Musician",
+            "label-ms": "Ahli muzik",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/articulate-aac-2022.appspot.com/o/people_images%2Fmusician.png?alt=media&token=3c9de879-386f-430b-bddd-d055f0901701"
+        },
+        {
+            "id": "P0018",
+            "label-en": "Police",
+            "label-ms": "Polis",
+            "image_url": "https://firebasestorage.googleapis.com/v0/b/articulate-aac-2022.appspot.com/o/people_images%2Fpolice.png?alt=media&token=cd1da7b2-2a52-442c-bd5a-302a81d1203e"
+        }
+    ]
+}
